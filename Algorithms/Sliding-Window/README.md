@@ -8,3 +8,6 @@ __Below are some fundamental clues to identify such kind of problem__:
 - The problem will be based on an array, list or string type of data structure.
 - It will ask to find subrange in that array or string will have to give longest, shortest, or target values.
 - Its concept is mainly based on ideas like the longest sequence or shortest sequence of something that satisfies a given condition perfectly.
+
+__References__
+- (https://itnext.io/sliding-window-algorithm-technique-6001d5fbe8b3)[] 

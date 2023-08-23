@@ -1,4 +1,4 @@
-# Some Sliding Window Problems
+# Solutions for Sliding Window Problems
 1. __Maximum sum subarray of Size k__
 
 ```
@@ -25,6 +25,7 @@ int maxSubArray(int[] arr, int n, int k) {
     return maxSoFar;
 }
 ```  
+- - - -
 2.  __Count Occurrences of Anagram__
 ```
 int anagramCount(String text, String word) {
@@ -52,4 +53,9 @@ int anagramCount(String text, String word) {
     }
     return count;
 }
+```
+- - - -
+3. __Difference between the maximum and minimum average of all k-length continuous subarrays__
+```
+
 ```
