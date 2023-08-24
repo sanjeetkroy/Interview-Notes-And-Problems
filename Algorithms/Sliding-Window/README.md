@@ -10,4 +10,4 @@ __Below are some fundamental clues to identify such kind of problem__:
 - Its concept is mainly based on ideas like the longest sequence or shortest sequence of something that satisfies a given condition perfectly.
 
 __References__
-- (https://itnext.io/sliding-window-algorithm-technique-6001d5fbe8b3)[] 
+- [Sliding Window Algorithm Technique](https://itnext.io/sliding-window-algorithm-technique-6001d5fbe8b3) 
