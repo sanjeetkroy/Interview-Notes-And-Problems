@@ -156,7 +156,6 @@ Therefore, the difference between the maximum(=12.0) and minimum(=5.5) is 12.0 -
 12. __Permutation in String__
 
 Given two strings s1 and s2, return true if s2 contains a permutation of s1, or false otherwise.
-
 In other words, return true if one of s1’s permutations is the substring of s2.
 ```
 Input: s1 = "ab", s2 = "eidbaooo"
@@ -221,11 +220,9 @@ Therefore, the difference between the maximum(=12.0) and minimum(=5.5) is 12.0 -
 16. __Substrings of Size Three with Distinct Characters__
 
 A string is good if there are no repeated characters.
-
-Given a string s, return the number of good substrings of length three in s​​​​​.
+Given a string s, return the number of good substrings of length three in s.
 
 Note that if there are multiple occurrences of the same substring, every occurrence should be counted.
-
 A substring is a contiguous sequence of characters in a string.
 
 ```
@@ -242,8 +239,8 @@ Therefore, the difference between the maximum(=12.0) and minimum(=5.5) is 12.0 -
 ```
 - - - -
 17. __Frequency of the Most Frequent Element__
-    The frequency of an element is the number of times it occurs in an array.
-
+    
+The frequency of an element is the number of times it occurs in an array.
 You are given an integer array nums and an integer k. In one operation, you can choose an index of nums and increment the element at that index by 1.
 
 Return the maximum possible frequency of an element after performing at most k operations.
@@ -304,7 +301,6 @@ Therefore, the difference between the maximum(=12.0) and minimum(=5.5) is 12.0 -
 20. __Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold__
 
 Given an array of integers arr and two integers k and threshold.
-
 Return the number of sub-arrays of size k and average greater than or equal to a threshold.
 
 ```
@@ -323,7 +319,6 @@ Therefore, the difference between the maximum(=12.0) and minimum(=5.5) is 12.0 -
 21. __Number of Substrings Containing All Three Characters__
 
 Given a string s consisting only of characters a, b and c.
-
 Return the number of substrings containing at least one occurrence of all these characters a, b and c.
 
 ```
@@ -391,7 +386,6 @@ Therefore, the difference between the maximum(=12.0) and minimum(=5.5) is 12.0 -
 24. __Maximum Number of Vowels in a Substring of Given Length__
 
 Given a string s and an integer k.
-
 Return the maximum number of vowel letters in any substring of s with length k.
 
 Vowel letters in English are (a, e, i, o, u).
